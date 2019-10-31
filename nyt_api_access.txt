@@ -1,0 +1,4 @@
+api id = 1b5ab0f0-7f0a-4802-9d29-ee58ee10ed69
+
+key = kAPdkb5glWAXB1o9qlP2Odx7vO3IAv0S
+secret = mYv2LWSR8MOPGY9t
